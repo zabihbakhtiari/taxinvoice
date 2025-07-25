@@ -37,13 +37,13 @@ export default function TaxInvoiceForm() {
         <h1 className="text-4xl font-bold mb-2 text-center">TAX INVOICE</h1>
         <div className="flex flex-row items-start justify-between mb-4 w-full">
           <div>
-            <Image
-              src="/images/vmr-logo.png"
-              alt="National Auto Recycling Logo"
-              width={150}
-              height={50}
-              className="mb-2"
-            />
+          <Image
+            src="/images/vmr-logo.png"
+            alt="National Auto Recycling Logo"
+            width={150}
+            height={50}
+            className="mb-2"
+          />
             <h2 className="text-3xl font-bold text-left mb-2">National Auto Recycling</h2>
             <p className="text-sm">
               A: Melbourne
