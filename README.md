@@ -143,7 +143,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Zabih Bakhtiari**
 - GitHub: [@zabihbakhtiari](https://github.com/zabihbakhtiari)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
@@ -154,9 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help, please open an issue or reach out via:
-- Email: your-email@example.com
-- GitHub Issues: [Create an issue](https://github.com/zabihbakhtiari/taxinvoice/issues)
-
+- Email: zbeahh@gmail.com
 ---
 
 <div align="center">

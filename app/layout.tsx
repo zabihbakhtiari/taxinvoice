@@ -18,12 +18,12 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
+    <html lang="en">
+      <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
-      <html lang="en" className={inter.className}>
-        <body>
           {children}
+        </ThemeProvider>
       </body>
     </html>
-    </ThemeProvider>
   )
 }
