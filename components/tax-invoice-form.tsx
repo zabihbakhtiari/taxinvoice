@@ -45,18 +45,18 @@ export default function TaxInvoiceForm() {
             height={50}
             className="mb-2"
           />
-          <h2 className="text-3xl font-bold text-left mb-2">National Auto Recycling</h2>
+          <h2 className="text-3xl font-bold text-left mb-2">your company name</h2>
             <p className="text-sm">
-              E: <a href="mailto:info@nationalautorecycling.com.au" className="underline hover:text-blue-400">info@nationalautorecycling.com.au</a>
+              E: <a href="mailto:info@nationalautorecycling.com.au" className="underline hover:text-blue-400">info@youremail.com</a>
             </p>
             <p className="text-sm">
-              Call Us: <a href="tel:0424633535" className="underline hover:text-blue-400">0424 633 535</a>
+              Call Us: <a href="tel:0424633535" className="underline hover:text-blue-400">0424263363</a>
             </p>
             <p className="text-sm">
-            ABN: 65 686 264 933
+            ABN: 65 686 264 343
             </p>
             <p className="text-sm">
-            Address: Unit 4/433-435 Hammond RdDandenong South VIC 3175, Australia
+            Address:RdDandenong South VIC  Australia
             </p>
         </div>
         <Image src="/images/google-review.png" alt="Review on Google" width={150} height={50} className="mx-auto" />
